@@ -89,7 +89,7 @@ export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen
+        <Stack.Screen  
           name="Home"
           component={HomeScreen}
         />

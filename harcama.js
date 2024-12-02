@@ -526,7 +526,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 1,
     shadowRadius: 5,
   },
-  uploadText: {
+  uploadText: {  
     fontSize: 13,
     color: "#ccc",
     fontWeight: "400",
