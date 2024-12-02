@@ -349,7 +349,7 @@ const ExpenseAddScreen = ({ route, navigation }) => {
                       </View>
                       <View style={styles.textCon}>
                         <Text style={styles.modalText}>
-                          Harcama başarılı bir
+                          Harcama başarılı bira
                         </Text>
                         <Text
                           style={{
